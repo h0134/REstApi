@@ -1,4 +1,4 @@
-package com.Apidemo.demoapi;
+package com.Apidemo.demoapi.Employees;
 
 import org.springframework.stereotype.Component;
 
